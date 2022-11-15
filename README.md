@@ -5,7 +5,7 @@
 
 ### Semana 02 - (Retos Bootstrap) - Crea la siguiente tabla de presentación de datos con Bootstrap..
 
-![Ejercicio](https://github.com/carlosnsuner/cns-bootstrap-tabla-data-urbalab/raw/master/img/Captura.PNG)
+![Ejercicio](https://github.com/carlosnsuner/cns-bootstrap-table-data-urbalab/raw/master/img/Captura.PNG)
 
 
 ***
